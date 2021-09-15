@@ -43,10 +43,10 @@ I enjoy talking a lot, but these are my favorite topics:
 | - | - | - | - |
 | Healthy lifestyle | Sports | Best burgers in town | Software development and processes |
 | Humankind history | Cars | Best ice cream in town | Bitcoin history |
-| Money management | Dad jokes | Calories | Daily Habits and Routines |
-| Time management | Netflix Series | Healthy eating habits | How to document everything in Notion |
-| - | Sudoku techniques | - | The correct way of pouring 🧉 |
-| - | Drones | - | Compound Interest |
+| Money management | Dad jokes | Calories | Daily habits and routines |
+| Time management | Netflix series | Healthy eating habits | How to document everything in Notion |
+| Compound interest | Sudoku techniques | - | The correct way of pouring 🧉 |
+| Deliberate practice | Drones | - | - |
 
 ## How to reach me 📫
 Feel free to shoot me over a DM on [Linkedin](https://www.linkedin.com/in/manuh/).
