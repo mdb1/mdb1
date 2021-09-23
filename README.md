@@ -20,7 +20,7 @@ I enjoy many different activities in my free time:
 * 🎾 Playing tennis
 * ⚽️ Playing soccer
 * 🏋️‍♀️ Going to the gym
-* 📚 Reading and being up to date with the industry standards. I maintain an [updated document](https://gist.github.com/mdb1/61e47a010f0def0a290b416266d94d28) with of interesting articles.
+* 📚 Reading and being up to date with the industry standards. I maintain an [updated document](https://gist.github.com/mdb1/61e47a010f0def0a290b416266d94d28) with interesting articles.
 * 🪕 Playing the Ukulele
 * 🚶🏻 Walking
 * ⌨️ Working on open-source projects
