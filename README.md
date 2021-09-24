@@ -34,7 +34,7 @@ Early in my life I discovered that I had a very odd talent:
 I can remember and write down the first `151` pokemon names without access to the internet in a piece of paper in less than 1 hour.
 In order to not lose that talent, I set a reminder to do so once a year.
 
-`June 1st, 2021`: 45 minutes 32 seconds. I had a hard time rememberying `Porygon` 😂.
+`June 1st, 2021`: 45 minutes 32 seconds. I had a hard time remembering `Porygon` 😂.
 
 ## Ask me about 💬
 I enjoy talking a lot, but these are my favorite topics:
