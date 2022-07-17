@@ -1,6 +1,6 @@
 # 👋 Hola 👋
 
-![mdb picture](mdb.png)
+<!-- ![mdb picture](mdb.png) -->
 
 ## About me 🤔
 - I'm Manu, a human from Argentina 🇦🇷.
